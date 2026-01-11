@@ -70,8 +70,7 @@ fun_fact: "Also builds in the real world — designed and built 2 houses 🏠 an
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=alesloa&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alesloa&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" />
+<img src="https://github-readme-stats-master-pied.vercel.app/api/top-langs/?username=alesloa&theme=tokyonight&hide_border=true&bg_color=0D1117&layout=compact" />
 
 </div>
 
