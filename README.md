@@ -18,9 +18,9 @@
 name: Ale S.
 role: Senior Full-Stack Developer & Product Designer
 location: Remote
-status: Open to full-time opportunities
-experience: 10+ years
-currently_working_on: ["StarredIn", "Notepad Studio", "Everything for Mac"]
+status: Heads down. Shipping, not shopping.
+experience: 20 years
+currently_working_on: ["Notepad Studio", "Everything for Mac"]
 tools: ["Cursor", "Claude Code", "Photoshop", "MongoDB", "Vercel", "Nginx", "MinIO"]
 platforms: ["macOS", "Windows", "Linux"]
 passion: Turning ideas into beautiful, functional products
@@ -61,17 +61,24 @@ fun_fact: "Also builds in the real world — designed and built 2 houses 🏠 an
 
 ## 🚀 Featured Projects
 
-### 📱 [StarredIn](https://starredin.com/)
-> Personalized books where your child is the hero of the story
+### 🎯 [Dynamic Lander](https://dynamiclander.ai/)
+> An AI tool that rewrites a landing page's headlines and copy to match the search and the ad that brought each visitor in. Works on any website.
 
-`Expo` `React Native` `Go` `C#` — *Live on the [App Store](https://apps.apple.com/app/starredin-custom-stories/id6755108381)* · [starredin.com](https://starredin.com/)
+`AI` `Landing pages` — [dynamiclander.ai](https://dynamiclander.ai/)
 
 ---
 
-### 🎯 [Admark Studio](https://admarkstudio.com/)
-> Creative platform for marketing content generation
+### 📱 [StarredIn](https://starredin.com/) (formerly StoryBud)
+> Personalized books where your child is the hero of the story
 
-`TypeScript` `Go` `Banner Gen` `AI` — *Ad creative automation* · [admarkstudio.com](https://admarkstudio.com/)
+Lead programmer. `Expo` `React Native` `Go` `C#` — *Live on the [App Store](https://apps.apple.com/app/starredin-custom-stories/id6755108381)* · [starredin.com](https://starredin.com/)
+
+---
+
+### 🎁 InstantlyFree
+> A deals platform that tracked Amazon promo codes, stackable coupons and rebate offers so members could get products for free
+
+Co-owner and lead programmer. More than 2,000 customers got millions of dollars in free products before we sold the business.
 
 <br>
 
@@ -89,7 +96,7 @@ fun_fact: "Also builds in the real world — designed and built 2 houses 🏠 an
 
 ### 💬 Let's Connect
 
-*Open to collaborations, freelance work, and interesting conversations*
+*Always up for an interesting conversation*
 
 <br>
 
