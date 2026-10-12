@@ -20,7 +20,7 @@ role: Senior Full-Stack Developer & Product Designer
 location: Remote
 status: Open to full-time opportunities
 experience: 10+ years
-currently_working_on: ["StoryBud", "Lavame"]
+currently_working_on: ["StarredIn", "Notepad Studio", "Everything for Mac"]
 tools: ["Cursor", "Claude Code", "Photoshop", "MongoDB", "Vercel", "Nginx", "MinIO"]
 platforms: ["macOS", "Windows", "Linux"]
 passion: Turning ideas into beautiful, functional products
@@ -33,36 +33,45 @@ fun_fact: "Also builds in the real world — designed and built 2 houses 🏠 an
 
 <div align="center">
 
-| Design | Frontend | Backend | Mobile |
-|:------:|:--------:|:-------:|:------:|
-| UI/UX | React | Go | Expo |
-| Photoshop | Next.js | C# | React Native |
-| Prototyping | TypeScript | Node.js | iOS & Android |
+| Design | Frontend | Backend | Mobile | Desktop |
+|:------:|:--------:|:-------:|:------:|:-------:|
+| UI/UX | React | Go | Expo | Tauri |
+| Photoshop | Next.js | C# | React Native | Rust |
+| Prototyping | TypeScript | Node.js | iOS & Android | Swift / SwiftUI |
 
 </div>
 
 <br>
 
+## 🛠️ Open Source
+
+| Project | What it does | Built with |
+|---|---|---|
+| [**Everything for Mac**](https://github.com/alesloa/everything-mac) | Instant filename search for macOS. Finds every file and folder across all volumes as you type. | `Swift` `SwiftUI` `AppKit` |
+| [**Motion Forge**](https://github.com/alesloa/motion-forge-animation) | Figma-style animation editor that builds animated React + Motion components in the browser. Exports to Motion, GSAP, CSS, SVG, Lottie and SwiftUI. | `TypeScript` `React` `Motion` |
+| [**Notepad Studio**](https://github.com/alesloa/notepad-studio) | Lightweight text editor inspired by Notepad++. Fast cold start, low memory, no bloat. macOS, Windows, Linux. | `Rust` |
+| [**TerminalHub**](https://github.com/alesloa/terminalhub) · [site](https://terminalhub.dev) | Browser-based control center for AI coding-agent CLIs. A canvas of workspaces with tmux-backed terminals that survive refreshes. | `TypeScript` `React` `Fastify` `tmux` |
+| [**MeetVox**](https://github.com/alesloa/meetvox) | Meeting recorder for macOS and Windows. Records mic and system audio separately and transcribes locally with whisper.cpp. Nothing uploaded. | `TypeScript` `whisper.cpp` |
+| [**FluXterm**](https://github.com/alesloa/FluXterm) | Cross-platform SSH and terminal client. An open-source recreation of MobaXterm. | `Tauri` `Rust` `React` |
+| [**BoxCast**](https://github.com/alesloa/boxcast) | Desktop media center: live channels, radio, and a music library with lossless MP3 editing. | `Tauri` `Rust` `React` |
+| [**PM2 App Manager**](https://github.com/alesloa/pm2-app-manager) | Desktop GUI for PM2. Start, stop, inspect and deploy Node apps on local and remote servers. | `TypeScript` |
+| [**Token Gauge**](https://github.com/alesloa/token-gauge) | Always-on-top desktop meter that paces your daily Claude Code token budget. | `JavaScript` |
+
+<br>
+
 ## 🚀 Featured Projects
 
-### 📱 StoryBud
-> A story creation mobile app bringing narratives to life
+### 📱 [StarredIn](https://starredin.com/)
+> Personalized books where your child is the hero of the story
 
-`Expo` `React Native` `Go` `C#` — *Currently in final stages*
-
----
-
-### 💧 Lavame
-> Full-stack monorepo with mobile app + Go backend
-
-`TypeScript` `Expo` `Go` `REST API` — *Cross-platform experience*
+`Expo` `React Native` `Go` `C#` — *Live on the [App Store](https://apps.apple.com/app/starredin-custom-stories/id6755108381)* · [starredin.com](https://starredin.com/)
 
 ---
 
-### 🎯 Admark Studio
+### 🎯 [Admark Studio](https://admarkstudio.com/)
 > Creative platform for marketing content generation
 
-`TypeScript` `Go` `Banner Gen` `AI` — *Ad creative automation*
+`TypeScript` `Go` `Banner Gen` `AI` — *Ad creative automation* · [admarkstudio.com](https://admarkstudio.com/)
 
 <br>
 
@@ -71,14 +80,6 @@ fun_fact: "Also builds in the real world — designed and built 2 houses 🏠 an
 <div align="center">
 
 <img src="https://github-readme-stats-master-pied.vercel.app/api/top-langs/?username=alesloa&theme=tokyonight&hide_border=true&bg_color=0D1117&layout=compact" />
-
-</div>
-
-<br>
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=alesloa&bg_color=0D1117&color=6C63FF&line=6C63FF&point=FFFFFF&area=true&hide_border=true" />
 
 </div>
 
