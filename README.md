@@ -47,6 +47,7 @@ fun_fact: "Also builds in the real world — designed and built 2 houses 🏠 an
 
 | Project | What it does | Built with |
 |---|---|---|
+| [**VerbVox**](https://github.com/alesloa/verbvox) | Hold-to-talk dictation for macOS. Hold a hotkey, talk, let go, and it types what you said into the app in front. Transcribes on your Mac with a bundled whisper.cpp engine. | `Swift` `SwiftUI` `whisper.cpp` |
 | [**Everything for Mac**](https://github.com/alesloa/everything-mac) | Instant filename search for macOS. Finds every file and folder across all volumes as you type. | `Swift` `SwiftUI` `AppKit` |
 | [**Motion Forge**](https://github.com/alesloa/motion-forge-animation) | Figma-style animation editor that builds animated React + Motion components in the browser. Exports to Motion, GSAP, CSS, SVG, Lottie and SwiftUI. | `TypeScript` `React` `Motion` |
 | [**Notepad Studio**](https://github.com/alesloa/notepad-studio) | Lightweight text editor inspired by Notepad++. Fast cold start, low memory, no bloat. macOS, Windows, Linux. | `Rust` |
@@ -100,6 +101,6 @@ Co-owner and lead programmer. More than 2,000 customers got millions of dollars 
 
 <br>
 
-![Visitor Count](https://komarev.com/ghpvc/?username=alesloa&color=6C63FF&style=flat-square&label=Profile+Views)
+![Profile Views](https://visitor-badge.laobi.icu/badge?page_id=alesloa.alesloa&left_text=Profile%20Views&right_color=%236C63FF)
 
 </div>
